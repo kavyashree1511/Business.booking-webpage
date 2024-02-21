@@ -1,0 +1,43 @@
+.h1{
+color: white;
+}
+.container1{
+    background-color: darkblue;
+}
+.container2_head{
+     margin-block: 2rem;
+}
+    .container3{
+        border:1px solid gray;
+        }
+        .container6{
+            background-color: aliceblue;
+        }
+        .container7_card{
+            border: 1px solid gray;
+            gap:20%;
+        }
+        .container7_info{
+            width: fit-content;
+        }
+        .container7_image{
+            height:30%;
+        }
+        .container8{
+            background-color: darkblue;
+        }
+        .container9{
+            background-color: black;
+        }
+        .container9_items{
+            list-style: none;
+        }
+        .container9_left_footer{
+            list-style: none;
+        }
+        .container9_right_footer{
+            list-style: none;
+        }
+        .container9{
+            border: 2px solid black;
+        }
